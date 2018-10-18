@@ -1228,7 +1228,7 @@ header .logo a {
 
 /* dropdown nav */
 .main-navigation {
-	background: rgba(77,196,168,0.1);
+	background: rgba(77,196,168,0.5);
 	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
@@ -1489,7 +1489,7 @@ header .logo a {
 		font-size: 1.2rem;
 	}
 	.intro-content .intro-position span {
-		padding: 0 .6rem;
+		padding: .6rem;
 	}
 	.intro-content .intro-position span::before, .intro-content .intro-position span::after {
 		display: none !important;
